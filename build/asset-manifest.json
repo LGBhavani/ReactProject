@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LGBhavani/ReactProject/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/LGBhavani/ReactProject/static/js/main.215d65c3.chunk.js",
+    "main.js.map": "/LGBhavani/ReactProject/static/js/main.215d65c3.chunk.js.map",
+    "runtime-main.js": "/LGBhavani/ReactProject/static/js/runtime-main.8e31f420.js",
+    "runtime-main.js.map": "/LGBhavani/ReactProject/static/js/runtime-main.8e31f420.js.map",
+    "static/js/2.433309ee.chunk.js": "/LGBhavani/ReactProject/static/js/2.433309ee.chunk.js",
+    "static/js/2.433309ee.chunk.js.map": "/LGBhavani/ReactProject/static/js/2.433309ee.chunk.js.map",
+    "static/js/3.50ba14e7.chunk.js": "/LGBhavani/ReactProject/static/js/3.50ba14e7.chunk.js",
+    "static/js/3.50ba14e7.chunk.js.map": "/LGBhavani/ReactProject/static/js/3.50ba14e7.chunk.js.map",
+    "index.html": "/LGBhavani/ReactProject/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/LGBhavani/ReactProject/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.433309ee.chunk.js.LICENSE.txt": "/LGBhavani/ReactProject/static/js/2.433309ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e31f420.js",
+    "static/js/2.433309ee.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.215d65c3.chunk.js"
+  ]
+}
